@@ -1,7 +1,9 @@
 <?php
 
-echo "Olá Mundo!456";
 
-echo "loko";
+echo "Olá Mundo23!";
+
+echo "teste";
+
 
 ?>
